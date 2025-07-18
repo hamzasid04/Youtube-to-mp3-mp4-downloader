@@ -34,7 +34,8 @@ brew install ffmpeg
 
 run:
 python app.py
- App will start on http://localhost:5000
+
+App will start on http://localhost:5000
 
 ## HOW TO USE:
  1. Enter a YouTube link in the input box.
