@@ -34,15 +34,6 @@ run:
 	python app.py
 	# App will start on http://localhost:5000
 
-## FILE STRUCTURE:
-
- app.py .......... Main Flask backend
- templates/
- └── index.html .. Web interface (place here)
- static/
- └── style.css ... Styling (place here)
- downloads/ ...... Generated at runtime to store files
-
 ## HOW TO USE:
  1. Enter a YouTube link in the input box.
  2. Press "Fetch Formats" to see available MP4 options.
