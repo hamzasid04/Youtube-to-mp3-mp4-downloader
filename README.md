@@ -1,7 +1,6 @@
 
  Project: YouTube Downloader (MP3 & MP4 Converter)
- Description: Flask-based web app for downloading YouTube videos as MP3 or MP4 using yt-dlp.
-
+ Description: Flask-based web app for downloading YouTube videos as MP3 or MP4 using yt-dlp. Since I was bored, I decided to make something unique.
 ## FEATURES:
  - Convert YouTube videos to high-quality MP3 audio
  - Download videos in MP4 format with selectable resolution
