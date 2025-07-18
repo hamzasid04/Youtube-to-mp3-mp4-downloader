@@ -21,18 +21,20 @@ install:
 	pip install flask yt-dlp
 
 ffmpeg:
-	# Ubuntu/Debian
-	sudo apt install ffmpeg
-	# macOS (using brew)
-	brew install ffmpeg
-	# Windows - Download and add to PATH
-	# https://ffmpeg.org/download.html
+# Ubuntu/Debian
+sudo apt install ffmpeg
+ 
+# macOS (using brew)
+brew install ffmpeg
+ 
+# Windows - Download and add to PATH
+ https://ffmpeg.org/download.html
 
 ## USAGE:
 
 run:
-	python app.py
-	# App will start on http://localhost:5000
+python app.py
+ App will start on http://localhost:5000
 
 ## HOW TO USE:
  1. Enter a YouTube link in the input box.
